@@ -37,7 +37,7 @@ Junior Analyst Intern<br><sub>Vangrove Tech Pvt. Ltd.</sub>
 
 **🎓 Education**
 <br>
-B.Tech CSE<br><sub>2021 – 2025</sub>
+B.Tech CSE<br><sub>2021 – 2025 · CGPA 7.8</sub>
 
 </td>
 <td align="center" width="25%">
@@ -101,15 +101,7 @@ Hyderabad<br><sub>India 🇮🇳</sub>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevikaKondapalli&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=DevikaKondapalli&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevikaKondapalli&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 
@@ -147,7 +139,7 @@ Hyderabad<br><sub>India 🇮🇳</sub>
 
 Analyzed **500+ job postings** to flag fake listings using NLP-based fraud indicators and a custom scoring workflow, evaluated across 4 classification metrics — plus a browser extension for 1-click job scanning.
 
-📎 **[View Repository →](#)**
+📎 **[View Repository →](https://github.com/DevikaKondapalli/Recruitment-Fraud-Detector)** &nbsp;|&nbsp; 🌐 **[Live Demo →](https://fraud-dectection.vercel.app)**
 
 </td></tr>
 </table>
