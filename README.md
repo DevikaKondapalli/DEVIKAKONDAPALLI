@@ -93,20 +93,7 @@ Hyderabad<br><sub>India 🇮🇳</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,50:6E56CF,100:00C2A8&height=3&width=1000" width="100%"/>
 
-## 📊 GitHub Analytics
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DevikaKondapalli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevikaKondapalli&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DevikaKondapalli&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</div>
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,50:6E56CF,100:00C2A8&height=3&width=1000" width="100%"/>
 
 ## 💼 Experience
 
